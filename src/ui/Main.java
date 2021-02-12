@@ -14,7 +14,7 @@ public class Main extends Application{
 			Parent root = FXMLLoader.load(getClass().getResource("CurrencyExchange.fxml"));
 			Scene scene = new Scene(root);
 			primaryStage.setScene(scene);
-			primaryStage.setTitle("Currency Exchange");
+			primaryStage.setTitle("Currency Exchange :: Seyerman Tools Inc");
 			primaryStage.show();
  
 	}
